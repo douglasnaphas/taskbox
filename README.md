@@ -1,3 +1,8 @@
+# taskbox
+This app was created as a companion to a [Storybook tutorial](https://www.learnstorybook.com/react/en/get-started).
+
+# From Create React App:
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
